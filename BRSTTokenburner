@@ -18,3 +18,5 @@ contract BRSTTokenburner {
         kill();
     }
 }
+
+//0x18578951BD24af064EaD2f96b81EB89e34165BB3
